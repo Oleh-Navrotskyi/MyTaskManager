@@ -42,5 +42,20 @@ The project strictly separates the UI layer from the system logic:
 4. Build the solution (`Ctrl + Shift + B`).
 5. Run the executable as Administrator (recommended for full access to memory metrics and owner SIDs of other users' processes).
 
+
+## Main window
+![Task Manager](OS_Lab2/images/main_photo.png)
+
+## Set affinity window
+![Task Manager](OS_Lab2/images/base_photo.png)
+
+
+## Threads modificators window
+![Set affinity](OS_Lab2/images/affinity_photo.png)
+
+## Process modificators window
+![Process Manager](OS_Lab2/images/threads_photo.png)
+
+
 ---
 *Developed as part of the Operating Systems course (Lab 2).*
